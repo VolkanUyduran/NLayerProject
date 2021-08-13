@@ -1,0 +1,15 @@
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Data.deps.json
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Data.runtimeconfig.json
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Data.runtimeconfig.dev.json
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Data.dll
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Data.pdb
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Core.dll
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\bin\Debug\netcoreapp3.1\NlayerProject.Core.pdb
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.csproj.AssemblyReference.cache
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.AssemblyInfoInputs.cache
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.AssemblyInfo.cs
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.csproj.CopyComplete
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.dll
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.pdb
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Data\obj\Debug\netcoreapp3.1\NlayerProject.Data.genruntimeconfig.cache
