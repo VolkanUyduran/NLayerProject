@@ -14,8 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NlayerProject.Core\NlayerProject.Core.csproj" />
-    <ProjectReference Include="..\NlayerProject.Data\NlayerProject.Data.csproj" />
     <ProjectReference Include="..\NlayerProject.Service\NlayerProject.Service.csproj" />
   </ItemGroup>
 

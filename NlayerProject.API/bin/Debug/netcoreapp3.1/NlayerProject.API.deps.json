@@ -34,8 +34,6 @@
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "Microsoft.EntityFrameworkCore.Design": "5.0.8",
-          "NlayerProject.Core": "1.0.0",
-          "NlayerProject.Data": "1.0.0",
           "NlayerProject.Service": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",

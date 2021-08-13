@@ -10,7 +10,7 @@ namespace NlayerProject.API.Dtos
     {
         public int Id { get; set; }
 
-        [Required]
+        [Required(ErrorMessage ="{0} alanı zorunludur")]
         public string Name { get; set; }
 
     }

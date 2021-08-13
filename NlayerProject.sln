@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlayerProject.API", "NlayerProject.API\NlayerProject.API.csproj", "{5B1F08A8-B3B4-42B4-895F-D3988C2815C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlayerProject.API", "NlayerProject.API\NlayerProject.API.csproj", "{5B1F08A8-B3B4-42B4-895F-D3988C2815C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlayerProject.Core", "NlayerProject.Core\NlayerProject.Core.csproj", "{D8BB92E9-ACA8-42E2-A48F-BEB43C756AB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlayerProject.Core", "NlayerProject.Core\NlayerProject.Core.csproj", "{D8BB92E9-ACA8-42E2-A48F-BEB43C756AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlayerProject.Data", "NlayerProject.Data\NlayerProject.Data.csproj", "{7E91EEE8-4643-46B6-A356-C6F0C86998FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlayerProject.Data", "NlayerProject.Data\NlayerProject.Data.csproj", "{7E91EEE8-4643-46B6-A356-C6F0C86998FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlayerProject.Service", "NlayerProject.Service\NlayerProject.Service.csproj", "{7BD4BFA3-C6EF-46F6-8F06-4592863D2C13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlayerProject.Service", "NlayerProject.Service\NlayerProject.Service.csproj", "{7BD4BFA3-C6EF-46F6-8F06-4592863D2C13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlayerProject.Web", "NlayerProject.Web\NlayerProject.Web.csproj", "{219D3FED-FA9F-43BF-9C70-9215D4A8927E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7BD4BFA3-C6EF-46F6-8F06-4592863D2C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BD4BFA3-C6EF-46F6-8F06-4592863D2C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BD4BFA3-C6EF-46F6-8F06-4592863D2C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219D3FED-FA9F-43BF-9C70-9215D4A8927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219D3FED-FA9F-43BF-9C70-9215D4A8927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219D3FED-FA9F-43BF-9C70-9215D4A8927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219D3FED-FA9F-43BF-9C70-9215D4A8927E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

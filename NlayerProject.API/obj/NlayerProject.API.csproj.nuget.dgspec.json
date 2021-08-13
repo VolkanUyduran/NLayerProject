@@ -28,12 +28,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Core\\NlayerProject.Core.csproj": {
-                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Core\\NlayerProject.Core.csproj"
-              },
-              "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Data\\NlayerProject.Data.csproj": {
-                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Data\\NlayerProject.Data.csproj"
-              },
               "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Service\\NlayerProject.Service.csproj": {
                 "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Service\\NlayerProject.Service.csproj"
               }

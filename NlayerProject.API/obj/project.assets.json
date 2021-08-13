@@ -5880,8 +5880,6 @@
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.8",
-      "NlayerProject.Core >= 1.0.0",
-      "NlayerProject.Data >= 1.0.0",
       "NlayerProject.Service >= 1.0.0"
     ]
   },
@@ -5912,12 +5910,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Core\\NlayerProject.Core.csproj": {
-              "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Core\\NlayerProject.Core.csproj"
-            },
-            "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Data\\NlayerProject.Data.csproj": {
-              "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Data\\NlayerProject.Data.csproj"
-            },
             "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Service\\NlayerProject.Service.csproj": {
               "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\NlayerProject\\NlayerProject.Service\\NlayerProject.Service.csproj"
             }
