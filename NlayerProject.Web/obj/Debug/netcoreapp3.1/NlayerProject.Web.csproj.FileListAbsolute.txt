@@ -8,6 +8,8 @@ C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\n
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\NlayerProject.Web.pdb
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\NlayerProject.Web.Views.dll
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\NlayerProject.Web.Views.pdb
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -67,6 +69,9 @@ C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\n
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.TagHelpers.input.cache
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.TagHelpers.output.cache
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.RazorCoreGenerate.cache
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Update.cshtml.g.cs
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -81,7 +86,3 @@ C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\n
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.dll
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.pdb
 C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\NlayerProject.Web.genruntimeconfig.cache
-C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
-C:\Users\Volkan Uyduran\source\repos\NlayerProject\NlayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs

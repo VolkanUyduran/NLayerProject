@@ -1,11 +1,11 @@
-﻿@model  IEnumerable<CategoryDto>
+﻿@model IEnumerable<CategoryDto>
 @{
     ViewData["Titile"] = "Index";
 }
 
 <h1>Kategoriler</h1>
 <a class="btn btn-primary mb-4" asp-action="Create">Kategori Ekle</a>
-<table class="table table-bordered" >
+<table class="table table-bordered">
     <thead>
         <tr>
             <th>Id</th>
@@ -20,8 +20,8 @@
                 <td>@item.Id</td>
                 <td>@item.Name</td>
                 <td>
-                    <button class="btn btn-outline-warning" asp-action="Update" asp-route-id="@item.Id">Güncelle</button>
-                    <button class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Sil</button>
+                    <a class="btn btn-outline-warning" asp-action="Update" asp-route-id="@item.Id">Güncelle</a>
+                    <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Sil</a>
                 </td>
             </tr>
         </tbody>
